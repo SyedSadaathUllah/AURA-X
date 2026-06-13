@@ -1,0 +1,10 @@
+timestamp app title mouse_clicks keypresses mouse_activity typing_intensity idle_time
+"2026-06-13 17:49:46" Code.exe "pyproject.toml - Untitled (Workspace) - Visual Studio Code" 0 0 1051.52 0 0:00:04.996338
+"2026-06-13 17:49:49" Code.exe "pyproject.toml - Untitled (Workspace) - Visual Studio Code" 0 0 1051.52 0 0:00:04.996338
+"2026-06-13 17:49:52" Code.exe "activityWatch.py - Untitled (Workspace) - Visual Studio Code" 0 0 1051.52 0 0:00:04.996338
+"2026-06-13 17:49:55" Code.exe "activityWatch.py - Untitled (Workspace) - Visual Studio Code" 0 0 1051.52 0 0:00:04.996338
+"2026-06-13 17:49:58" Code.exe "activityWatch.py - Untitled (Workspace) - Visual Studio Code" 0 0 1051.52 0 0:00:04.996338
+"2026-06-13 17:50:01" Code.exe "activityWatch.py - Untitled (Workspace) - Visual Studio Code" 0 0 1051.52 0 0:00:04.996338
+"2026-06-13 17:50:05" Code.exe "productivity_log.csv - Untitled (Workspace) - Visual Studio Code" 0 0 1051.52 0 0:00:04.996338
+"2026-06-13 17:50:08" Code.exe "productivity_log.csv - Untitled (Workspace) - Visual Studio Code" 0 0 1051.52 0 0:00:04.996338
+"2026-06-13 17:50:11" Code.exe "productivity_log.csv - Untitled (Workspace) - Visual Studio Code" 0 0 1051.52 0 0:00:04.996338
