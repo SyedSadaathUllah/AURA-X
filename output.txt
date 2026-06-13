@@ -1,0 +1,132 @@
+Timestamp: None
+Application: None
+Window Title: None
+Hour: None
+Weekday: None
+Mouse Clicks: 0
+Keypresses: 0
+Mouse Activity: 0
+Typing Intensity: 0
+Idle Time: 00.00.00
+
+Timestamp: None
+Application: None
+Window Title: None
+Hour: None
+Weekday: None
+Mouse Clicks: 0
+Keypresses: 0
+Mouse Activity: 0
+Typing Intensity: 0
+Idle Time: 00.00.00
+
+Timestamp: None
+Application: None
+Window Title: None
+Hour: None
+Weekday: None
+Mouse Clicks: 0
+Keypresses: 0
+Mouse Activity: 0
+Typing Intensity: 0
+Idle Time: 00.00.00
+
+Timestamp: None
+Application: None
+Window Title: None
+Hour: None
+Weekday: None
+Mouse Clicks: 0
+Keypresses: 0
+Mouse Activity: 0
+Typing Intensity: 0
+Idle Time: 00.00.00
+
+Timestamp: None
+Application: None
+Window Title: None
+Hour: None
+Weekday: None
+Mouse Clicks: 0
+Keypresses: 0
+Mouse Activity: 0
+Typing Intensity: 0
+Idle Time: 00.00.00
+
+Timestamp: None
+Application: None
+Window Title: None
+Hour: None
+Weekday: None
+Mouse Clicks: 0
+Keypresses: 0
+Mouse Activity: 0
+Typing Intensity: 0
+Idle Time: 00.00.00
+
+Timestamp: None
+Application: None
+Window Title: None
+Hour: None
+Weekday: None
+Mouse Clicks: 0
+Keypresses: 0
+Mouse Activity: 0
+Typing Intensity: 0
+Idle Time: 00.00.00
+
+Timestamp: None
+Application: None
+Window Title: None
+Hour: None
+Weekday: None
+Mouse Clicks: 0
+Keypresses: 0
+Mouse Activity: 0
+Typing Intensity: 0
+Idle Time: 00.00.00
+
+Timestamp: None
+Application: None
+Window Title: None
+Hour: None
+Weekday: None
+Mouse Clicks: 0
+Keypresses: 0
+Mouse Activity: 0
+Typing Intensity: 0
+Idle Time: 00.00.00
+
+Timestamp: None
+Application: None
+Window Title: None
+Hour: None
+Weekday: None
+Mouse Clicks: 0
+Keypresses: 0
+Mouse Activity: 0
+Typing Intensity: 0
+Idle Time: 00.00.00
+
+Timestamp: None
+Application: None
+Window Title: None
+Hour: None
+Weekday: None
+Mouse Clicks: 0
+Keypresses: 0
+Mouse Activity: 0
+Typing Intensity: 0
+Idle Time: 00.00.00
+
+Timestamp: None
+Application: None
+Window Title: None
+Hour: None
+Weekday: None
+Mouse Clicks: 0
+Keypresses: 0
+Mouse Activity: 0
+Typing Intensity: 0
+Idle Time: 00.00.00
+

@@ -1,0 +1,4 @@
+pandas>=1.0
+openai-whisper
+pyttsx3
+torch
