@@ -1,4 +1,7 @@
 # AURA-X
 by team algorithmists
 
-hi i am syed saad
+**Syed Saad Ahmed**
+**Syeda Shahakaar**
+**Israah Hanfa**
+**Syed Sadaath Ullah**
