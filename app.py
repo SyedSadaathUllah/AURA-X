@@ -22,27 +22,34 @@ def query_sarvam(prompt: str) -> str:
     )
 
     generated_text = response.choices[0].message.content
-    return generated_text.strip()
+    return generated_text
 
 prompt = """
 Analyze this activity data and respond in exactly 20 words or less.
 Include one insight, one recommendation, or a joke based on the activity.
 """
-def sarvam_text_speech(text: str):
-    client = SarvamAI(api_subscription_key="sk_xc5ctv1t_ZpavH3SzO9Tkx4Ux2ut9Xycw")
-    audio = client.text_to_speech.convert(
-    target_language_code="en-IN",
-    text=text,
-    model="bulbul:v3",
-    speaker="shubh"
+def ele_text_speech(text: str):
+    client = ElevenLabs(
+    api_key="78c66b79be8709f51253cd38b682ff2bb316f5676191d4c1b9b35dfa319d60a6"
     )
-    save(audio, "output.wav")
+    audio = client.text_to_speech.convert(
+    text=text,
+    voice_id="mQn5orpvorFdd7wFUc5o",
+    model_id="eleven_multilingual_v2",
+    output_format="mp3_44100_128",
+    )
+    with open("output.wav", "wb") as f:
+        for chunk in audio:
+            if chunk:
+                f.write(chunk)
+    
     subprocess.Popen(["start", "output.wav"], shell=True)
+
 
 
 while True:
     txt_data = stream_txt()
     result = query_sarvam(txt_data + "\n\n" + prompt)
     print(result)
-    sarvam_text_speech(result)
+    ele_text_speech(result)
     time.sleep(5)
